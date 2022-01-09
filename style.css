@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   background-color:aquamarine;
+   border-width: 7px;
+   border-color: black;
+   border-style: solid;
+
+}
+
